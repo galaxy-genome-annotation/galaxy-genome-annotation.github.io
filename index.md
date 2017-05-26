@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Galaxy Genome Annotation
 
-You can use the [editor on GitHub](https://github.com/galaxy-genome-annotation/galaxy-genome-annotation.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A group of projects focused on supporting genome annotation inside Galaxy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Some of our repositories:
+...
+
 
 ### Markdown
 
