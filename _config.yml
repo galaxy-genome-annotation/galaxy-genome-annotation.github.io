@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: GGA
-description: <img src="gga.png" style="max-width:100%" />
+description: <img src="gga-clean.png" style="max-width:100%" />
 show_downloads: false
 
 # Overriding these so it reads in a more sensible manner
