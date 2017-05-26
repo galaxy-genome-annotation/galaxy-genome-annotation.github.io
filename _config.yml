@@ -2,4 +2,6 @@ theme: jekyll-theme-minimal
 title: GGA
 description: <img src="gga.png" style="max-width:100%" />
 show_downloads: false
+github:
+    repository_url: https://github.com/galaxy-genome-annotation/
 
