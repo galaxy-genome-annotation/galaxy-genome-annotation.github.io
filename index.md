@@ -1,3 +1,8 @@
+<style type="text/css">
+header h1 {
+	display:none;
+}
+</style>
 <script>
 ((window.gitter = {}).chat = {}).options = {
     room: 'galaxy-genome-annotation/Lobby'

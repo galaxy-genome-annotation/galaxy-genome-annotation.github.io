@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+title: GGA
+description: <img src="gga.png" style="max-width:100%" />
+show_downloads: false
+
