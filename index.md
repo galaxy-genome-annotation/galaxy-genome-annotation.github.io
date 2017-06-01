@@ -76,3 +76,8 @@ Backup an apollo instance to a git repository
 [![License](https://img.shields.io/github/license/galaxy-genome-annotation/apollo-google-docs-integration.svg)](https://github.com/galaxy-genome-annotation/apollo-google-docs-integration/blob/master/LICENSE)
 
 Experimental work for a plugin to allow referencing data from Apollo. For genomes which are re-opened / re-numbered / etc. between drafting and publication, it can be extremely helpful to reference persistent identifiers.
+
+
+## Support
+
+This material is based upon work supported by the National Science Foundation under Grant Number (Award 1565146)
