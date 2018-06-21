@@ -37,6 +37,20 @@ If customizing the docker-galaxy-genome-annotation image isn't your style, this 
 
 Python library for talking to Apollo API. This includes the experimental `Arrow` Apollo client.
 
+### [python-tripal](https://github.com/galaxy-genome-annotation/python-tripal)
+
+[![GitHub Contributors](https://img.shields.io/github/contributors/galaxy-genome-annotation/python-tripal.svg)](https://github.com/galaxy-genome-annotation/python-tripal/graphs/contributors)
+[![License](https://img.shields.io/github/license/galaxy-genome-annotation/python-tripal.svg)](https://github.com/galaxy-genome-annotation/python-tripal/blob/master/LICENSE)
+
+A Python library for interacting with Tripal
+
+### [python-chado](https://github.com/galaxy-genome-annotation/python-chado)
+
+[![GitHub Contributors](https://img.shields.io/github/contributors/galaxy-genome-annotation/python-chado.svg)](https://github.com/galaxy-genome-annotation/python-chado/graphs/contributors)
+[![License](https://img.shields.io/github/license/galaxy-genome-annotation/python-chado.svg)](https://github.com/galaxy-genome-annotation/python-chado/blob/master/LICENSE)
+
+A Python library for interacting with Chado database
+
 ### [galaxy-tools](https://github.com/galaxy-genome-annotation/galaxy-tools)
 
 [![GitHub Contributors](https://img.shields.io/github/contributors/galaxy-genome-annotation/galaxy-tools.svg)](https://github.com/galaxy-genome-annotation/galaxy-tools/graphs/contributors)
