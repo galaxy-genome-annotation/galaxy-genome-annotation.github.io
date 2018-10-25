@@ -23,6 +23,27 @@ GGA is a group of projects focused on supporting genome annotation inside Galaxy
 
 Galaxy Docker repository with tools for Genome Annotation. The image is built with tools for Assembly (Spades, Mira), Structural Prediction (Glimmer, Augustus), Functional Prediction (BLAST+, InterProScan, BLAST, Diamond, Blast2GO), various Utilities (FASTA manipulation tools, EMBOSS), tools for Comparative Genomics (CD-Hit, ClustalW, AntiSmash, mummer), and finally Annotation & Visualization tools (Apollo Tools, JBrowse-in-Galaxy, JBrowse-in-Galaxy Extras, Tripal Admin tools, Circos)
 
+### [docker-tripal](https://github.com/galaxy-genome-annotation/docker-tripal)
+
+[![GitHub Contributors](https://img.shields.io/github/contributors/galaxy-genome-annotation/docker-tripal.svg)](https://github.com/galaxy-genome-annotation/docker-tripal/graphs/contributors)
+[![License](https://img.shields.io/github/license/galaxy-genome-annotation/docker-tripal.svg)](https://github.com/galaxy-genome-annotation/docker-tripal/blob/master/LICENSE)
+
+A production ready Docker image for Tripal v2.x and v3.x.
+
+### [docker-jbrowse](https://github.com/galaxy-genome-annotation/docker-jbrowse)
+
+[![GitHub Contributors](https://img.shields.io/github/contributors/galaxy-genome-annotation/docker-jbrowse.svg)](https://github.com/galaxy-genome-annotation/docker-jbrowse/graphs/contributors)
+[![License](https://img.shields.io/github/license/galaxy-genome-annotation/docker-jbrowse.svg)](https://github.com/galaxy-genome-annotation/docker-jbrowse/blob/master/LICENSE)
+
+A production ready Docker image for JBrowse.
+
+### [docker-chado](https://github.com/galaxy-genome-annotation/docker-chado)
+
+[![GitHub Contributors](https://img.shields.io/github/contributors/galaxy-genome-annotation/docker-chado.svg)](https://github.com/galaxy-genome-annotation/docker-chado/graphs/contributors)
+[![License](https://img.shields.io/github/license/galaxy-genome-annotation/docker-chado.svg)](https://github.com/galaxy-genome-annotation/docker-chado/blob/master/LICENSE)
+
+A production ready Docker image for Chado database. The image is built automatically using SQL dumps produced by [chado-schema-builder](https://github.com/erasche/chado-schema-builder/), including up-to-date ontologies.
+
 ### [dockerized-gmod-deployment](https://github.com/galaxy-genome-annotation/dockerized-gmod-deployment)
 
 [![GitHub Contributors](https://img.shields.io/github/contributors/galaxy-genome-annotation/dockerized-gmod-deployment.svg)](https://github.com/galaxy-genome-annotation/dockerized-gmod-deployment/graphs/contributors)
