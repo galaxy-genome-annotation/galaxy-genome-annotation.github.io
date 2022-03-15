@@ -26,26 +26,9 @@ GGA is a group of projects focused on supporting genome annotation inside Galaxy
 
 [![License](https://img.shields.io/github/license/galaxy-genome-annotation/galaxy-tools.svg)](https://github.com/galaxyproject/tools-iuc/blob/master/LICENSE)
 
-Various Galaxy tools for Genome Annotation are in the [IUC repository](https://github.com/galaxyproject/tools-iuc), including:
+Various Galaxy tools for Genome Annotation are in the [IUC repository](https://github.com/galaxyproject/tools-iuc), including: Augustus, BUSCO, FeelNC, Funannotate, Gffread, InterProScan, Maker, Metaeuk, Prokka, Repeat Masker, Repeat Modeler, Snap
 
-- Augustus
-- BUSCO
-- FeelNC
-- Funannotate
-- Gffread
-- InterProScan
-- Maker
-- Metaeuk
-- Prokka
-- Repeat Masker
-- Repeat Modeler
-- Snap
-
-Other tools are also available on other repositories:
-
-- [Antismash](https://github.com/bgruening/galaxytools/tree/master/tools/antismash)
-- [Braker](https://github.com/genouest/galaxy-tools/tree/master/tools/braker)
-- [EggNOG-Mapper](https://github.com/galaxyproteomics/tools-galaxyp/tree/master/tools/eggnog_mapper)
+Other tools are also available on other repositories: [Antismash](https://github.com/bgruening/galaxytools/tree/master/tools/antismash), [Braker](https://github.com/genouest/galaxy-tools/tree/master/tools/braker), [EggNOG-Mapper](https://github.com/galaxyproteomics/tools-galaxyp/tree/master/tools/eggnog_mapper)
 
 ## [Visualisation tools](https://github.com/galaxyproject/tools-iuc)
 
