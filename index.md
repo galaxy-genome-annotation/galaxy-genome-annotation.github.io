@@ -51,7 +51,7 @@ We are maintaining the following Galaxy tools for the visualisation of annotatio
 
 Galaxy tools to interact with GMOD applications (see below for the corresponding Docker images and Python libraries).
 
-## Training Material
+## [Training Material](https://training.galaxyproject.org/training-material/topics/genome-annotation/)
 
 Learn how to annotate new genomes by following the [Genome Annotation tutorials on the Galaxy Training Network](https://training.galaxyproject.org/training-material/topics/genome-annotation/)! Reusable workflows are provided together with detailed tutorials and videos.
 
