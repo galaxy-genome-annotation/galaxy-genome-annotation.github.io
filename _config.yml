@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: GGA
-description: <img src="gga-clean.png" style="max-width:100%" />
+logo: gga-clean.png
+description: Galaxy Genome Annotation
 show_downloads: false
 
 # Overriding these so it reads in a more sensible manner
