@@ -3,12 +3,7 @@ header h1 {
 	display:none;
 }
 </style>
-<script>
-((window.gitter = {}).chat = {}).options = {
-    room: 'galaxy-genome-annotation/Lobby'
-};
-</script>
-<script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
+<script defer data-domain="galaxy-genome-annotation.github.io" src="https://plausible.galaxyproject.eu/js/script.js"></script>
 
 # Galaxy Genome Annotation
 
